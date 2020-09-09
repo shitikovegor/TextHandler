@@ -1,0 +1,80 @@
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: It
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: has
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: survived
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: 8.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: It
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: has
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: survived
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: 8.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: It has survived 8.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.ParagraphParser - TextComponent PARAGRAPH created: It has survived 8.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: It
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: is
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: reader,
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: 9
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: be.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: It is reader, 9 be.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.ParagraphParser - TextComponent PARAGRAPH created: It is reader, 9 be.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: Bye!
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: Bye!
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: Good
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: luck…
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: Good luck…
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.ParagraphParser - TextComponent PARAGRAPH created: Bye! Good luck…
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: It
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: has
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: survived
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: 8.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: It has survived 8.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: It
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: is
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: reader,
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: 9
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: be.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: It is reader, 9 be.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: Bye!
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: Bye!
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: Good
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: luck…
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: Good luck…
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: It
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: has
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: survived
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: 8.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: It has survived 8.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.ParagraphParser - TextComponent PARAGRAPH created: It has survived 8.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: It
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: is
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: reader,
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: 9
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: be.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: It is reader, 9 be.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.ParagraphParser - TextComponent PARAGRAPH created: It is reader, 9 be.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: Bye!
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: Bye!
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: Good
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: luck…
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: Good luck…
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.ParagraphParser - TextComponent PARAGRAPH created: Bye! Good luck…
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.TextParser - TextComponent TEXT created: It has survived 8.	It is reader, 9 be.	Bye! Good luck…
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: It
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: has
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: survived
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: 8.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: It has survived 8.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.ParagraphParser - TextComponent PARAGRAPH created: It has survived 8.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: It
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: is
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: reader,
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: 9
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: be.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: It is reader, 9 be.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.ParagraphParser - TextComponent PARAGRAPH created: It is reader, 9 be.
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: Bye!
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: Bye!
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: Good
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.LexemeParser - TextComponent LEXEME created: luck…
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.SentenceParser - TextComponent SENTENCE created: Good luck…
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.ParagraphParser - TextComponent PARAGRAPH created: Bye! Good luck…
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.TextParser - TextComponent TEXT created: It has survived 8.	It is reader, 9 be.	Bye! Good luck…
+09.09.2020 23:27:40 [main] INFO  com.shitikov.handling.parser.impl.TextParser - TextComponent TEXT created: It has survived 8.	It is reader, 9 be.	Bye! Good luck…

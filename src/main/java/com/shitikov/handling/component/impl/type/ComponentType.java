@@ -4,6 +4,5 @@ public enum ComponentType {
     TEXT,
     PARAGRAPH,
     SENTENCE,
-    LEXEME,
-    WORD
+    LEXEME
 }

@@ -6,13 +6,13 @@ import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import java.util.List;
 import java.util.Optional;
 
 public class Symbol implements TextComponent {
+    private static Logger logger = LogManager.getLogger();
     private char symbol;
     private SymbolType type;
-
-    private static Logger logger = LogManager.getLogger();
 
     public Symbol(char symbol, SymbolType type) {
         this.symbol = symbol;
@@ -32,8 +32,31 @@ public class Symbol implements TextComponent {
     }
 
     @Override
+    public List<TextComponent> getComponents() {
+        throw new UnsupportedOperationException();
+    }
+
+    @Override
     public Optional<TextComponent> getChild(int index) {
         return Optional.empty();
+    }
+
+    public char getSymbol() {
+        return symbol;
+    }
+
+    public Symbol setSymbol(char symbol) {
+        this.symbol = symbol;
+        return this;
+    }
+
+    public SymbolType getType() {
+        return type;
+    }
+
+    public Symbol setType(SymbolType type) {
+        this.type = type;
+        return this;
     }
 
     @Override
